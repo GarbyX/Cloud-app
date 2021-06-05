@@ -1,0 +1,5 @@
+---
+applications:
+ - name: Garby
+   random-route: true
+   memory: 256M
